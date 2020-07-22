@@ -32,7 +32,7 @@ The proposed system is about pet feeding when all people of nuclear family membe
 
 
 <p align="center">
-<img width=300px  src="Images/Circuit%20Diagram.png" alt="Image of a Circuit">
+<img src="Images/Circuit%20Diagram.png" alt="Image of a Circuit">
 </p>
 
 ---
@@ -66,5 +66,5 @@ The proposed system is about pet feeding when all people of nuclear family membe
 10. Now everything is set to go, you can test it using the Blynk app or manually.
 
 ---
-Here is the [`Detailed Report`](Project%20Report.pdf) of the above project with some proposed modification to the system and here are the some of the name of the [webpages](Websites.txt) for reference for the project.
+Here is the [`Detailed Report`](Project%20Report.pdf) of the above project with some proposed modification to the system and here are the some of the name of the [`Webpages`](Websites.txt) for reference for the project.
 
