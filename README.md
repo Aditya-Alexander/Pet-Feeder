@@ -32,7 +32,7 @@ The proposed system is about pet feeding when all people of nuclear family membe
 
 
 <p align="center">
-<img width=300px  src="https://drive.google.com/file/d/1glCzeAlCt9fQNT6oWf9WfuqXAx04ISPG/view?usp=sharing" alt="Image of a Circuit">
+<img width=300px  src="Images/Circuit%Diagram.png" alt="Image of a Circuit">
 </p>
 
 ---
@@ -51,20 +51,20 @@ The proposed system is about pet feeding when all people of nuclear family membe
 2. Make the connections as per the circuit diagram.
 1. Install the Blynk App on your [Android](https://play.google.com/store/apps/details?id=cc.blynk) or [IOS](https://apps.apple.com/us/app/blynk-iot-for-arduino-esp32/id808760481) mobile device.
 2. Create a new account on the app.
-3. Create a new project on the app and match the [GUI]() of this project or just scan this [QR Code]() and get the GUI on your app.
+3. Create a new project on the app and match the [GUI](Images/App%GUI.png) of this project or just scan this [QR Code](Images/QRCode.jpeg) and get the GUI on your app.
 4. Once the project is created you will get an `Auth code` on your email id through you created your account.
 5. Add the auth code and Wifi name and password in the [code]().
 6. Install the [Arduino IDE](https://www.arduino.cc/en/main/software) on your system.
 7. Install the [Blynk Library](http://help.blynk.cc/en/articles/512105-how-to-install-blynk-library-for-arduino-ide) for Arduino IDE.
-8. Compile and Upload the [code]() onto your Arduino.
+8. Compile and Upload the [code](Pet%Feeder.ino) onto your Arduino.
 9. If on your Serial Monitor the ouput is similar to this then your system is up and running and it will show online on your Blynk app.
 
 <p align="center">
-<img width=300px  src="https://drive.google.com/file/d/1glCzeAlCt9fQNT6oWf9WfuqXAx04ISPG/view?usp=sharing" alt="Serial Monitor Output">
+<img width=300px  src="Images/Serial%Monitor%Output.png" alt="Serial Monitor Output">
 </p>
 
 10. Now everything is set to go, you can test it using the Blynk app or manually.
 
 ---
-Here is the [`Detailed Report`]() of the above project with some proposed modification to the system and here are the some of the name of the [webpages]() for reference for the project.
+Here is the [`Detailed Report`](Project%Report.pdf) of the above project with some proposed modification to the system and here are the some of the name of the [webpages](Websites.txt) for reference for the project.
 
