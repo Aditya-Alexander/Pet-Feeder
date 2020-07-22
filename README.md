@@ -3,7 +3,7 @@
 ![Project](https://img.shields.io/badge/Project-Pet%20Feeder-red?logo=github)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Made With Arduino](https://img.shields.io/badge/Made%20With-Arduino-yellow.svg)
-[![GitHub stars](https://img.shields.io/github/stars/Aditya-Alexander/petfeeder.svg?logo=github)](https://github.com/Aditya-Alexander/petfeeder/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Aditya-Alexander/Pet-Feeder.svg?logo=github)](https://github.com/Aditya-Alexander/Pet-Feeder/stargazers)
 
 <p align="center">
 <img width=300px  src="https://graphicriver.img.customer.envatousercontent.com/files/270440720/CartoonDogPointer%20p.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=d7ccf47eef9f9a8f679c134cc70bffa5" alt="Image of a Dog">
